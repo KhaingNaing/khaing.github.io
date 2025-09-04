@@ -26,6 +26,8 @@ github_username:  khaingnaing
 
 # Build settings
 theme: minima
+minima:
+  hide_site_feed_link: true
 plugins:
   - jekyll-feed
 
