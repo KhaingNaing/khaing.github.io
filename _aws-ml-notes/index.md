@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AWS ML Certification Study Note (part 1)"
+title:  "AWS ML Certification Study Note"
 date:   2025-09-05 21:33:37 +1000
 categories: AWS ML Certification Note
 ---
@@ -17,4 +17,4 @@ This blog documents my study progress for preparing to sit for [MLA-C01](https:/
 ## Contents
 1. [Data Ingestion](/aws-ml-notes/data-ingestion/)
 2. [Storage](/aws-ml-notes/storage/)
-3. [Processing](/aws-ml-notes/processing/)
+<!-- 3. [Processing](/aws-ml-notes/processing/) -->
