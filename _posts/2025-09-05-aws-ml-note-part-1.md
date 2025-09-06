@@ -3,6 +3,7 @@ layout: post
 title:  "AWS ML Certification Study Note"
 date:   2025-09-05 21:33:37 +1000
 categories: AWS ML Certification Note
+permalink: /aws-ml-notes/
 ---
 # About 
 This blog documents my study progress for preparing to sit for [MLA-C01](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/) - the AWS Certified Machine Learning Engineer - Associate. This certification tests the participant knowledge on 4 domains including:

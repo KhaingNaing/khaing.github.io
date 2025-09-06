@@ -2,7 +2,7 @@
 layout: page
 title: "Data Ingestion"
 parent: "AWS ML Certification Study Note"   # optional if your theme uses it
-nav_order: 2
+nav_order: 1
 ---
 This post is all about types of data, their properties.
 
