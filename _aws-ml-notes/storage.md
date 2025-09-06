@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Data Ingestion"
+title: "Data Storage"
 parent: "AWS ML Certification Study Note"   
 nav_order: 2
 ---
